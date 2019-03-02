@@ -9,8 +9,8 @@ permalink:           pretty
 # Setup
 title:               Anywhere
 tagline:             Documentation for Anywhere.
-url:                 http://velliz.github.io/anywhere
-baseurl:             /anywhere/
+url:                 http://velliz.github.io/anydocs
+baseurl:             /anydocs/
 
 # Assets
 #
