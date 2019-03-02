@@ -5,22 +5,20 @@ title: Contributing
 
 ## Bug Report
 
-TODO
+If you found bugs, feel free to report them [here](https://github.com/Velliz/anywhere/issues)
+to help the system run more secure.
 
 ## Feature Request
 
-TODO
+If you want to give an idea or feature request, feel free to describe them [here](https://github.com/Velliz/anywhere/issues)
+to help the system run more better.
 
 ## Code Contribution
 
 **pull request**
 
-TODO
+An pull request contribution is always open and merged if the changes one vision with us :D
 
 **core maintener**
 
-TODO
-
----
-
-&copy; 2019 - Didit Velliz
+Contact me via e-mail *diditvelliz@gmail.com* if you interest as core maintener
